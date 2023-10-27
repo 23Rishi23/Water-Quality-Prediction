@@ -35,7 +35,7 @@ We use machine learning techniques to develop a predictive model for water potab
 
 ## Model Evaluation
 
-The notebook also includes the evaluation of the model's performance, including metrics like accuracy, precision, recall, and F1-score. This will help you assess the model's ability to predict water potability accurately.
+The notebook also includes the evaluation of the model's performance, including metrics like mean_squared_error. This will help you assess the model's ability to predict water potability accurately.
 
 ---
 
